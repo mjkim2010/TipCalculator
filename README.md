@@ -18,7 +18,7 @@ The following **required** functionality is completed:
 The following **extensions** are implemented:
 
 * [x] Custom colors palette selected
-* [ ] List anything else that you did to improve the app functionality or design!
+* [x] Replaced the text describing the tip (“poor”, “good”, etc) with emojis.
 
 ## Video Walkthrough
 
@@ -31,6 +31,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+None encountered other than some initial confusion with the file hierarchy. 
 
 ## License
 
